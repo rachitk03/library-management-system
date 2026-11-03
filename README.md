@@ -1,0 +1,1 @@
+# Library Management System\n\nLibrary inventory, issue/return tracking, 14-day loans, and ₹5/day overdue fee calculation.\n\nRequires JDK 21 and Maven. Run `mvn spring-boot:run` from this folder, then open http://localhost:8080. Data is saved locally as JSON; no MySQL required.\n
